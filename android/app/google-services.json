@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "476173602315",
+    "project_id": "store-mgmnt-0001",
+    "storage_bucket": "store-mgmnt-0001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476173602315:android:150474deed47901487810e",
+        "android_client_info": {
+          "package_name": "com.muler.ahmed_sales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAM7KgOCdwNhzNwQEpXmKYjQhHsx4iwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476173602315:android:23e6da3f39f2951587810e",
+        "android_client_info": {
+          "package_name": "com.muler.ahmedadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAM7KgOCdwNhzNwQEpXmKYjQhHsx4iwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476173602315:android:0b0db10cb074407f87810e",
+        "android_client_info": {
+          "package_name": "com.muler.store_managment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAM7KgOCdwNhzNwQEpXmKYjQhHsx4iwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476173602315:android:3573bee880d7f10287810e",
+        "android_client_info": {
+          "package_name": "org.muler.ahmedadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAM7KgOCdwNhzNwQEpXmKYjQhHsx4iwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476173602315:android:bcfa987c9713d44f87810e",
+        "android_client_info": {
+          "package_name": "org.muler.ahmedsales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAM7KgOCdwNhzNwQEpXmKYjQhHsx4iwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
